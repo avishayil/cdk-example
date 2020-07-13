@@ -1,0 +1,28 @@
+CredentialsUsage:
+  Reason: 'Protego failed to evaluate Code value from your template file. Consider
+    using a constant value for that field, or Specify a parameter if needed. {''Location'':
+    {''S3Bucket'': ''Unknown Value: REF: AssetParametersc337d3dbe9917cfbadc4059c91e3d495ce0ea70f6ab0263d2c70570b78eebbd1S3BucketE821EB11'',
+    ''S3Key'': u"Unknown Value: REF: AssetParametersc337d3dbe9917cfbadc4059c91e3d495ce0ea70f6ab0263d2c70570b78eebbd1S3VersionKeyC0D43F7DUnknown
+    Value: Fn::Select: 1 [u''Unknown Value: REF: AssetParametersc337d3dbe9917cfbadc4059c91e3d495ce0ea70f6ab0263d2c70570b78eebbd1S3VersionKeyC0D43F7D'']"}}'
+  Result: Skipped
+PermissiveRole:
+  Reason: 'Protego failed to evaluate Code value from your template file. Consider
+    using a constant value for that field, or Specify a parameter if needed. {''Location'':
+    {''S3Bucket'': ''Unknown Value: REF: AssetParametersc337d3dbe9917cfbadc4059c91e3d495ce0ea70f6ab0263d2c70570b78eebbd1S3BucketE821EB11'',
+    ''S3Key'': u"Unknown Value: REF: AssetParametersc337d3dbe9917cfbadc4059c91e3d495ce0ea70f6ab0263d2c70570b78eebbd1S3VersionKeyC0D43F7DUnknown
+    Value: Fn::Select: 1 [u''Unknown Value: REF: AssetParametersc337d3dbe9917cfbadc4059c91e3d495ce0ea70f6ab0263d2c70570b78eebbd1S3VersionKeyC0D43F7D'']"}}'
+  Result: Skipped
+RuleViolation:
+  Reason: 'Protego failed to evaluate Code value from your template file. Consider
+    using a constant value for that field, or Specify a parameter if needed. {''Location'':
+    {''S3Bucket'': ''Unknown Value: REF: AssetParametersc337d3dbe9917cfbadc4059c91e3d495ce0ea70f6ab0263d2c70570b78eebbd1S3BucketE821EB11'',
+    ''S3Key'': u"Unknown Value: REF: AssetParametersc337d3dbe9917cfbadc4059c91e3d495ce0ea70f6ab0263d2c70570b78eebbd1S3VersionKeyC0D43F7DUnknown
+    Value: Fn::Select: 1 [u''Unknown Value: REF: AssetParametersc337d3dbe9917cfbadc4059c91e3d495ce0ea70f6ab0263d2c70570b78eebbd1S3VersionKeyC0D43F7D'']"}}'
+  Result: Skipped
+VulnerableDependency:
+  Reason: 'Protego failed to evaluate Code value from your template file. Consider
+    using a constant value for that field, or Specify a parameter if needed. {''Location'':
+    {''S3Bucket'': ''Unknown Value: REF: AssetParametersc337d3dbe9917cfbadc4059c91e3d495ce0ea70f6ab0263d2c70570b78eebbd1S3BucketE821EB11'',
+    ''S3Key'': u"Unknown Value: REF: AssetParametersc337d3dbe9917cfbadc4059c91e3d495ce0ea70f6ab0263d2c70570b78eebbd1S3VersionKeyC0D43F7DUnknown
+    Value: Fn::Select: 1 [u''Unknown Value: REF: AssetParametersc337d3dbe9917cfbadc4059c91e3d495ce0ea70f6ab0263d2c70570b78eebbd1S3VersionKeyC0D43F7D'']"}}'
+  Result: Skipped

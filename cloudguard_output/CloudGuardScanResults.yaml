@@ -1,0 +1,19 @@
+Failed:
+  Functions: {}
+Skipped:
+  Functions: {}
+Successful:
+  Functions:
+    ExamplesExampleHandlerDE82EBFC:
+      CredentialsUsage:
+        Result: Skipped
+        ShortReason: Parsing Failed
+      PermissiveRole:
+        Result: Skipped
+        ShortReason: Parsing Failed
+      RuleViolation:
+        Result: Skipped
+        ShortReason: Parsing Failed
+      VulnerableDependency:
+        Result: Skipped
+        ShortReason: Parsing Failed
